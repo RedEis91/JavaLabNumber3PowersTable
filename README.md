@@ -1,0 +1,1 @@
+# JavaLabNumber3PowersTable
